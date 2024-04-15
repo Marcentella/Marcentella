@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Marcentella
+- 🌱 I’m currently learning front-end programming
